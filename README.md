@@ -36,7 +36,7 @@ Este proyecto contiene un script de Python que permite convertir datos de un arc
 2. Modifica las variables archivo_csv y archivo_json en el script para especificar los nombres del archivo CSV de entrada y el archivo JSON de salida, respectivamente:
 
     ```python
-csv_a_json('products.csv', 'productos_json.json')
+    csv_a_json('products.csv', 'productos_json.json')
 3. Ejecuta el script desde la terminal o tu entorno de desarrollo integrado (IDE):
 
    ```bash
